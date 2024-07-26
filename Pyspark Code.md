@@ -1,5 +1,5 @@
 # Uber-Data-Analysis-Using-Pyspark
-![maxresdefault](https://github.com/user-attachments/assets/b6b0d2d2-aad8-4491-9497-868fd0818f27)
+![uber data analysis](https://github.com/user-attachments/assets/73dafeed-f52a-41f5-a3bc-1ea85e9e96b0)
 
 This data project can be used as a take-home assignment to learn Pyspark and Data Engineering.
 
