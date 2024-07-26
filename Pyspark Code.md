@@ -1,4 +1,4 @@
-# Uber-Data-Analysis-Using-Pyspark
+# Uber Data Analysis with PySpark-SQL: Decoding Urban Mobility
 ![uber data analysis](https://github.com/user-attachments/assets/73dafeed-f52a-41f5-a3bc-1ea85e9e96b0)
 
 This data project can be used as a take-home assignment to learn Pyspark and Data Engineering.
