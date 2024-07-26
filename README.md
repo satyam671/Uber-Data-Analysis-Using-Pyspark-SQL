@@ -1,7 +1,7 @@
 # Uber-Data-Analysis-Using-Pyspark-SQL
 Using PySpark-SQL, this project analyzes Uber's dataset to uncover ride-sharing insights. It demonstrates big data processing skills, extracting key information on urban mobility patterns. The analysis answers critical questions about usage trends, showcasing data engineering proficiency in handling large-scale datasets.
 
-
+![uber data analysis](https://github.com/user-attachments/assets/73dafeed-f52a-41f5-a3bc-1ea85e9e96b0)
 
 # About this project
 ## Uber Data Analysis with PySpark-SQL: Decoding Urban Mobility
